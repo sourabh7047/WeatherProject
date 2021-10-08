@@ -1,0 +1,8 @@
+when you commit some kind of error, you  get a list of code that goes out of your mind so for better understand you require status of your code and 
+that can be feached by typing "request the https module present in your node to get the codeStatus by typing
+https.get.codeStatus;
+
+when we receive the data after getting the url to show that data we use the "on" method, but the file format we get is hexdecimal bytes so to convert  
+it into the JSON fle format we use the JSON.perse function and to send it again we can convert into the string format by using the stringify function       
+
+__filename it can be used to feach the name of the file
